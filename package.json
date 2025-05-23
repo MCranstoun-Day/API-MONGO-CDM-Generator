@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "Matthew Cranstoun-Day",
+    "email": "mjhcranstounday@gmail.com"
+  },
+  "name": "newman-reporter-dal-gen",
+  "version": "1.0.0",
+  "description": "A Newman reporter to generate C# MongoDb models from API responses.",
+  "main": "reporter.Mongo_DAL.js",
+  "files": [
+    "reporter.Mongo_DAL.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "newman",
+    "reporter",
+    "csharp",
+    "model",
+    "api"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "newman": "^6.2.1"
+  }
+}
