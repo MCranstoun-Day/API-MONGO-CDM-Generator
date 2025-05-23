@@ -39,7 +39,7 @@ Setup and Usage
 Follow these steps to use the generator with your Postman collections:
 
 1. Install Dependencies
-1. 
+
 First, navigate to the directory where this script and your package.json file are located. Then, install the necessary packages globally:
 
 Bash
@@ -49,7 +49,7 @@ npm install -g
 Important: You must run npm install -g each time you want to use this specific API CDM generator, especially if you switch between projects with different reporter configurations.
 
 2. Prepare Your Postman Collection
-1. 
+
 Export your Postman API collection (e.g., my_collection.json) to the same directory where you'll run this script.
 
 Ensure your API key (if required) is correctly configured within your Postman collection for usage.
