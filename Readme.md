@@ -4,7 +4,7 @@ NB ENSURE YOU INSTALL GLOBALLY EACH TIME YOU WANT TO USE A DIFFERENT API CDM GEN
 
 export target postman API collection to current directory and ensure API key is in the postman collection for usage.
 
-execute
+execute in cmd prompt
 
 newman run postman_collection.json -r cli,dal-gen --reporter-dal-gen
 
